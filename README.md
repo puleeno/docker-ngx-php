@@ -1,4 +1,4 @@
-# docker-ngx-php
+# ngx-php Docker image
 Docker image of Embedded php7 or php8 scripting language for nginx module
 
 # Credits:
